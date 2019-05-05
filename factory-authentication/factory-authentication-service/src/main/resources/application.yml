@@ -1,0 +1,38 @@
+server:
+  port: ${PORT:8088} # Indicate the default PORT where this service will be started
+spring:
+  application:
+    name: factory-authentication
+  jpa:
+    hibernate:
+      ddl-auto: none
+      jdbc:
+        lob:
+          non_contextual_creation: true
+    properties:
+      hibernate.default_schema: public
+      hibernate.temp.use_jdbc_metadata_defaults: false
+      hibernate.temp.dedialect: org.hibernate.dialect.PostgreSQLDialect
+      database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+  flyway:
+    schemas: public
+    outOfOrder: true
+    baselineOnMigrate: true
+    table: schema_factory_authentication_service
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+  mandatory-file-encoding: UTF-8
+  messages:
+    encoding: UTF-8
+eureka:
+  instance:
+    leaseRenewalIntervalInSeconds: 10
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    registryFetchIntervalSeconds: 10
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fa.factory:factory-common-service:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fa/factory/factory-common-service/unknown/factory-common-service-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fa/factory/factory-common-service/unknown/factory-common-service-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fa/factory/factory-common-service/unknown/factory-common-service-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      name: factory-configuration
+      uri: ${CONFIG_SERVER_URI:http://localhost:8762/api/config}

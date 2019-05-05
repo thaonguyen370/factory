@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../factory-service-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/../factory-service-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-admin/factory-admin.iml" filepath="$PROJECT_DIR$/../factory-admin/factory-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-admin/factory-admin-client/factory-admin-client.iml" filepath="$PROJECT_DIR$/../factory-admin/factory-admin-client/factory-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-admin/factory-admin-dto/factory-admin-dto.iml" filepath="$PROJECT_DIR$/../factory-admin/factory-admin-dto/factory-admin-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-admin/factory-admin-service/factory-admin-service.iml" filepath="$PROJECT_DIR$/../factory-admin/factory-admin-service/factory-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-authentication/factory-authentication.iml" filepath="$PROJECT_DIR$/../factory-authentication/factory-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-authentication/factory-authentication-client/factory-authentication-client.iml" filepath="$PROJECT_DIR$/../factory-authentication/factory-authentication-client/factory-authentication-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-authentication/factory-authentication-dto/factory-authentication-dto.iml" filepath="$PROJECT_DIR$/../factory-authentication/factory-authentication-dto/factory-authentication-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-authentication/factory-authentication-service/factory-authentication-service.iml" filepath="$PROJECT_DIR$/../factory-authentication/factory-authentication-service/factory-authentication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-common/factory-common.iml" filepath="$PROJECT_DIR$/../factory-common/factory-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-common/factory-common-model/factory-common-model.iml" filepath="$PROJECT_DIR$/../factory-common/factory-common-model/factory-common-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-common/factory-common-service/factory-common-service.iml" filepath="$PROJECT_DIR$/../factory-common/factory-common-service/factory-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-configuration/factory-configuration.iml" filepath="$PROJECT_DIR$/../factory-configuration/factory-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-configuration/factory-configuration-client/factory-configuration-client.iml" filepath="$PROJECT_DIR$/../factory-configuration/factory-configuration-client/factory-configuration-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-configuration/factory-configuration-dto/factory-configuration-dto.iml" filepath="$PROJECT_DIR$/../factory-configuration/factory-configuration-dto/factory-configuration-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-configuration/factory-configuration-service/factory-configuration-service.iml" filepath="$PROJECT_DIR$/../factory-configuration/factory-configuration-service/factory-configuration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-common/factory-core/factory-core.iml" filepath="$PROJECT_DIR$/../factory-common/factory-core/factory-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry.iml" filepath="$PROJECT_DIR$/service-registry.iml" />
+    </modules>
+  </component>
+</project>
